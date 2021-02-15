@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Paulo Moore
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning HTML and CSS at freeCodeCamp
+- 📫 Follow me on Twitter @p_mooley
